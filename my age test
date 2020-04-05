@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(){
+
+int minhaidade;
+
+minha idade = 17;
+
+printf("Minha idade é = %i.\n", minhaidade);
+printf("Sim, sou bem velha");
+
+return 0;
+}
